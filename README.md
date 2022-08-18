@@ -1,3 +1,10 @@
+# Google Drive Video Link
+https://drive.google.com/file/d/1RKjPDv0qqCdn_plEfY-xuV6yJoy3H8UX/view?usp=sharing
+
+# Hosted Application Link
+https://riktam-tech-app.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
