@@ -117,6 +117,7 @@ function Sidebar(props) {
                 user.id === state.selected && "bg-slate-200"
               } hover:bg-slate-100 rounded-xl`}
               onClick={() => dispatch(selectUser(user.id))}
+              key={user.id}
             >
               <div className="flex gap-4">
                 <img
@@ -184,6 +185,7 @@ function Sidebar(props) {
                 user.id === state.selected && "bg-slate-200"
               } hover:bg-slate-100 rounded-xl`}
               onClick={() => dispatch(selectUser(user.id))}
+              key={user.id}
             >
               <div className="flex gap-4">
                 <img
